@@ -1,6 +1,6 @@
-# AI Tools Colab Notebooks
+# AI Tools Colab & Kaggle Notebooks
 
-Welcome to my collection of Google Colab notebooks for various AI tools. This repository hosts free, easy-to-use notebooks that you can run directly in your browser.
+Welcome to my collection of Google Colab and Kaggle notebooks for various AI tools. This repository hosts free, easy-to-use notebooks that you can run directly in your browser or cloud environment.
 
 [![YouTube](https://img.shields.io/badge/YouTube-AIQUEST-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AIQuestAcademy)
 [![X](https://img.shields.io/badge/%20-AIQUEST-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AIQuestAcademy)
@@ -10,6 +10,7 @@ Welcome to my collection of Google Colab notebooks for various AI tools. This re
 
 | Notebook Name | Description | Link | Video Tutorial |
 | :--- | :--- | :--- | :--- |
+| **ScenA Audio - Expressive Speech Generator (Colab)** | Zero-Shot Voice Cloning, Intent-Aware TTS, and Multi-Speaker Dialogue using the ScenA Audio model. Optimized for Colab Free T4 GPU. | [<img src="images/colab-large.svg" width="160" height="64" alt="Open in Colab"/>](https://colab.research.google.com/github/TeamAIQ/Colab-notebooks/blob/main/notebooks/Scena_Audio_by_AIQUEST.ipynb) | [<img src="images/youtube-large.svg" width="160" height="64" alt="Video Tutorial"/>](https://youtu.be/W9DVNAsFO0s) |
 | **Krea 2 Turbo - Fast Text-to-Image Generator (Kaggle)** | Ultra-fast text-to-image generation powered by the Krea 2 Turbo model. Optimized for Kaggle T4 GPU. | [<img src="images/kaggle-large.svg" width="160" height="64" alt="Open in Kaggle"/>](https://www.kaggle.com/code/unlockbulk/krea-2-turbo-fast-text-to-image-generator) | [<img src="images/youtube-large.svg" width="160" height="64" alt="Video Tutorial"/>](https://youtu.be/GYykua9-01A) |
 | **LTX-2.3 22B MSR Ref Distilled 1.1 (Kaggle)** | Multi-Reference Consistent Video Generation (Ingredients-to-Video) utilizing LTX-2.3 22B Distilled 1.1 + LiconStudio MSR LoRA. Optimized for Kaggle T4 GPU. | [<img src="images/kaggle-large.svg" width="160" height="64" alt="Open in Kaggle"/>](https://www.kaggle.com/code/unlockbulk/ltx-2-3-22b-msr-ref-distilled-1-1-kaggle) | [<img src="images/youtube-large.svg" width="160" height="64" alt="Video Tutorial"/>](https://youtu.be/AtEstFHy3Dc) |
 | **Dots.TTS - Zero-Shot Autoregressive TTS** | 2B Parameter Fully Continuous Autoregressive TTS Foundation Model. Features zero-shot speaker cloning & multiple checkpoints (Base, Soar, MF). Optimized for Colab Free T4 GPU. | [<img src="images/colab-large.svg" width="160" height="64" alt="Open in Colab"/>](https://colab.research.google.com/github/TeamAIQ/Colab-notebooks/blob/main/notebooks/Dots_TTS_by_AIQUEST.ipynb) | [<img src="images/youtube-large.svg" width="160" height="64" alt="Video Tutorial"/>](https://www.youtube.com/@aiquestacademy) |
